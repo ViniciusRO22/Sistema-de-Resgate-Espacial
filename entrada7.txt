@@ -1,0 +1,8 @@
+3 3
+S#A
+###
+#A#
+Astronautas:
+Buzz Aldrin,95,0
+Posições dos astronautas na matriz:
+Buzz Aldrin: (0,2)

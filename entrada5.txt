@@ -1,0 +1,17 @@
+6 6
+S##..A
+.##..#
+.~~..#
+.~~..#
+A....#
+A...A#
+Astronautas:
+Neil Armstrong,60,1
+Buzz Aldrin,95,0
+Gagarin,75,0
+Marcos Pontes,50,1
+Posições dos astronautas na matriz:
+Neil Armstrong: (0,5)
+Buzz Aldrin: (4,0)
+Gagarin: (5,4)
+Marcos Pontes: (5,0)

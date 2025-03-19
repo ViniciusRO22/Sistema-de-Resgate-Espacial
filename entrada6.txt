@@ -1,0 +1,19 @@
+10 10
+S.........
+.###..#..#
+.###..#...
+.~~~..F..#
+.~~~..F.A.
+.~~~..F.F.
+.~~~..F...
+.....F..A.
+.....F....
+.........A
+Astronautas:
+Chris Hadfield,85,0
+Samantha Cristoforetti,60,1
+Pedro Duque,75,0
+Posições dos astronautas na matriz:
+Chris Hadfield: (4,8)
+Samantha Cristoforetti: (7,8)
+Pedro Duque: (9,9)

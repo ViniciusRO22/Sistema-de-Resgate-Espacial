@@ -1,0 +1,17 @@
+8 8
+S.......
+.###..A.
+.###....
+.~~~..F.
+.~~~..FA
+.~~~..F.
+.~~~....
+....F..A
+Astronautas:
+Chris Hadfield,80,0
+Tim Peake,65,1
+Peggy Whitson,90,0
+Posições dos astronautas na matriz:
+Chris Hadfield: (1,6)
+Tim Peake: (4,7)
+Peggy Whitson: (7,7)

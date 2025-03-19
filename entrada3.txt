@@ -1,0 +1,29 @@
+12 12
+S...........
+.###...#...A
+.###...#....
+.~~~...F...A
+.~~~...F.A..
+A~~~...F.F..
+.~~~...F....
+....F.......
+....F.......
+..A.........
+..........A.
+.....A......
+Astronautas:
+Mae Jemison,85,0
+Michael Collins,75,1
+Eileen Collins,95,0
+John Glenn,88,0
+Sally Ride,80,0
+Gordon Cooper,65,1
+Scott Carpenter,90,0
+Posições dos astronautas na matriz:
+Mae Jemison: (1,11)
+Michael Collins: (3,11)
+Eileen Collins: (10,10)
+John Glenn: (11,5)
+Sally Ride: (5,0)
+Gordon Cooper: (9,2)
+Scott Carpenter: (4,9)

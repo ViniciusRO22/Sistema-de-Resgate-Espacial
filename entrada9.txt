@@ -1,0 +1,19 @@
+10 10
+S........A
+.###..#..#
+.###..#...
+.~~~..F..#
+.~~~..F.A.
+.~~~..F.F.
+.~~~..F...
+.....F....
+.....F....
+.........A
+Astronautas:
+Helen Sharman,80,0
+Yuri Malenchenko,60,1
+Koichi Wakata,70,0
+Posições dos astronautas na matriz:
+Helen Sharman: (0,9)
+Yuri Malenchenko: (4,8)
+Koichi Wakata: (9,9)
